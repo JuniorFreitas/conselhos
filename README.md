@@ -1,1 +1,2 @@
 # conselhos
+Aplicativo utilizando IONIC
